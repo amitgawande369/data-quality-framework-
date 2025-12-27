@@ -1,0 +1,7 @@
+product_id,product_name,price,quantity_sold
+1,A,100,10
+2,B,200,15
+3,C,,20
+4,D,400,
+5,E,invalid,25
+5,E,600,25
