@@ -17,3 +17,10 @@ It ensures high-quality data before loading into downstream systems such as data
 - Pytest
 
 ## 📂 Project Structure
+data-quality-framework/
+├── data_quality/
+├── tests/
+├── sample_data/
+├── run_validation.py
+├── requirements.txt
+└── README.md
